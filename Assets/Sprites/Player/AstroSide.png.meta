@@ -109,89 +109,177 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: AstroSide (1)_0
+      name: AstroSide_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 324
+        width: 189
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22ca6969ca816c43898598605ae3e9d
+      internalID: 1735345306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AstroSide_1
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 324
+        width: 189
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcde624ce00a17a4f857d420667cf197
+      internalID: -1635859646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AstroSide_2
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 324
+        width: 189
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca038f5868d5b0f438777f88317abd4e
+      internalID: 1930416430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AstroSide_3
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 324
+        width: 189
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9adeb6e7fa95004eb6e13e2af570c40
+      internalID: 360385431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AstroSide_4
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 190
-        height: 648
+        width: 189
+        height: 324
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 1209c10871dff89e0800000000000000
-      internalID: -1616795463827288031
+      spriteID: 7377af10c1147e6408861114c334081f
+      internalID: -1642625069
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: AstroSide (1)_1
+      name: AstroSide_5
       rect:
         serializedVersion: 2
-        x: 188
+        x: 189
         y: 0
-        width: 173
-        height: 648
+        width: 189
+        height: 324
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: dcf090b254d6eedd0800000000000000
-      internalID: -2454904603028156467
+      spriteID: b4cc083dd55c3ae4bae6fe36192c9045
+      internalID: 1766915164
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: AstroSide (1)_2
+      name: AstroSide_6
       rect:
         serializedVersion: 2
-        x: 377
+        x: 378
         y: 0
-        width: 182
-        height: 648
+        width: 189
+        height: 324
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 38eca8bf668a00a60800000000000000
-      internalID: 7638290128280669827
+      spriteID: abe3a36f2c0efb24ea258c7473806ef5
+      internalID: 1894041073
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: AstroSide (1)_3
+      name: AstroSide_7
       rect:
         serializedVersion: 2
-        x: 566
+        x: 567
         y: 0
-        width: 190
-        height: 648
+        width: 189
+        height: 324
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 2269bcabae768a2a0800000000000000
-      internalID: -6726011785623923166
+      spriteID: 9b5a9eb54cdf0324ba585123c8b5abf7
+      internalID: 1728687170
       vertices: []
       indices: 
       edges: []
@@ -200,7 +288,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: e88eb68244b1a0d429c674bc2cb631d6
     internalID: 0
     vertices: []
     indices: 
@@ -210,10 +298,14 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      AstroSide (1)_0: -1616795463827288031
-      AstroSide (1)_1: -2454904603028156467
-      AstroSide (1)_2: 7638290128280669827
-      AstroSide (1)_3: -6726011785623923166
+      AstroSide_0: 1735345306
+      AstroSide_1: -1635859646
+      AstroSide_2: 1930416430
+      AstroSide_3: 360385431
+      AstroSide_4: -1642625069
+      AstroSide_5: 1766915164
+      AstroSide_6: 1894041073
+      AstroSide_7: 1728687170
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

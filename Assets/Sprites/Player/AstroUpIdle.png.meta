@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 32dc4362159cebc438208a223d43fb3e
+guid: f3d3f4730f6e687409b538b03998576b
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6787873231480290510
-    second: AstroForward_0
+      213: -4791271365728673372
+    second: AstroForward (3) (4)_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,7 +100,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: AstroForward_0
+      name: AstroForward (3) (4)_0
       rect:
         serializedVersion: 2
         x: 0
@@ -113,10 +113,32 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: eccf3c68dbe533e50800000000000000
-      internalID: 6787873231480290510
+      spriteID: 7a523b38415e2ee43bf32e906ba18447
+      internalID: -1810951834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AstroForward (3) (4)_1
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 0
+        width: 162
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ebccdf448e033f45b521391a34d0325
+      internalID: -1433649425
       vertices: []
       indices: 
       edges: []
@@ -125,7 +147,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: bcfc7431049e1974ab7aee2c5210719f
     internalID: 0
     vertices: []
     indices: 
@@ -135,7 +157,8 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      AstroForward_0: 6787873231480290510
+      AstroForward (3) (4)_0: -1810951834
+      AstroForward (3) (4)_1: -1433649425
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
